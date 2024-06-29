@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Deepak Choudhary</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h2 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-c-choudhary&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-c-choudhary" /> </p>
@@ -24,6 +24,41 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/deepakchandrakishorchoudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/deepakchandrakishorchoudhary/" height="30" width="40" /></a>
 </p>
 </br>
+
+<h2> A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Deepak Choudhary
+located_in: Pune, Maharashtra
+current_job: Student
+education:
+  [
+    "Self-Taught FullStack Developer",
+    "Bachelor of Technology in Computer Engineering",
+    "Honors in AI/ML",
+  ]
+company: NIL
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "App Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "Flutter Developer",
+    "Intern - FullStack"
+  ]
+  
+currently_learning: ["DSA, Docker, Kubernetes, and React Native"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Sports", "Art", "Strength Training"]
+```
 
 
 <h3 align="left">Languages and Tools I have used and Learned:</h3>
