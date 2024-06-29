@@ -72,3 +72,6 @@ hobbies: ["Gaming", "Cinema", "Sports", "Art", "Strength Training"]
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-c-choudhary&" alt="deepak-c-choudhary" /></p>
 
+
+![snake gif](https://github.com/Deepak-C-Choudhary/Deepak-C-Choudhary/blob/output/github-contribution-grid-snake.svg)
+
