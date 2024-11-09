@@ -43,14 +43,14 @@ const coder = {
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
     
-    <!-- LeetCode Link -->
+  <!-- LeetCode Link -->
   <a href="https://leetcode.com/u/DeepakChandrakishorchoudhary/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
     
-    <!-- Medium Link -->
+   <!-- Medium Link -->
   <a href="https://medium.com/@scifigen20032021" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" heiht="30" width="40" />
     </a>
 </p>
 
