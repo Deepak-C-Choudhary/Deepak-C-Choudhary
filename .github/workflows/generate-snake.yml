@@ -20,7 +20,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}  # Uses GitHub's token for authentication
 
       - name: Upload snake
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # Updated version to v3
         with:
           name: github-contribution-grid-snake
           path: github-contribution-grid-snake.svg
