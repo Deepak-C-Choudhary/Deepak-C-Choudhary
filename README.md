@@ -33,10 +33,27 @@ const coder = {
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-choudhary-53200625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-choudhary-53200625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/deepakchoudhary434/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/deepakchoudhary434/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/deepakchandrakishorchoudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[https://leetcode.com/u/deepakchandrakishorchoudhary/])" height="30" width="40" /></a>
+    <!-- LinkedIn Link -->
+    <a href="https://www.linkedin.com/in/deepak-choudhary-53200625b" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    
+  <!-- Instagram Link -->
+   <a href="https://www.instagram.com/deepakchoudhary434/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+    
+    <!-- LeetCode Link -->
+  <a href="https://leetcode.com/u/DeepakChandrakishorchoudhary/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    </a>
+    
+    <!-- Medium Link -->
+  <a href="https://medium.com/@scifigen20032021" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    </a>
 </p>
+
 </br>
 
 <h2> A Little Bit About Me and My Interests</h2>
