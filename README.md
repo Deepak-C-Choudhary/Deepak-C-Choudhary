@@ -214,5 +214,6 @@ hobbies: ["Gaming", "Cinema", "Sports", "Art", "Strength Training"]
 </br>
 
 
-![snake gif](https://github.com/Deepak-C-Choudhary/Deepak-C-Choudhary/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Deepak-C-Choudhary/Deepak-C-Choudhary/blob/output/github-contribution-grid-snake.svg)
+
 
