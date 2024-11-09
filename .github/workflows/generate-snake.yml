@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run once a day
+  push:
+    branches:
+      - main  # Or the branch where your contributions happen
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Platane/snk action
+        uses: Platane/snk@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Uses GitHub's token for authentication
+
+      - name: Upload snake
+        uses: actions/upload-artifact@v2
+        with:
+          name: github-contribution-grid-snake
+          path: github-contribution-grid-snake.svg
