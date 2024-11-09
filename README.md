@@ -137,9 +137,9 @@ hobbies: ["Gaming", "Cinema", "Sports", "Art", "Strength Training"]
   <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="shell scripting" width="40" height="40"/> 
   </a> 
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> 
-  </a> 
+ <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40" style="filter: invert(1);"/>
+</a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
