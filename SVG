@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- CSS styles for animations -->
+  <style>
+    @keyframes moveSnake {
+      0% { transform: translate(0, 0); }
+      50% { transform: translate(50px, 0); }
+      100% { transform: translate(100px, 0); }
+    }
+    
+    /* Style the snake */
+    .snake {
+      fill: green;
+      animation: moveSnake 1s infinite;
+    }
+  </style>
+  
+  <!-- Snake body represented by circles -->
+  <circle class="snake" cx="10" cy="10" r="5"/>
+  <circle class="snake" cx="20" cy="10" r="5"/>
+  <circle class="snake" cx="30" cy="10" r="5"/>
+</svg>
